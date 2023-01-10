@@ -6,7 +6,7 @@ public class Hello {
 
 		System.out.println("HOW ARE YOU?");
 		System.out.println("Hello World");
-		System.out.println("I KNOW WHAT ARE YOU DOING?");
+		
 
 	}
 
